@@ -1,10 +1,10 @@
 import React from "react";
 import { MdDesignServices } from "react-icons/md";
 import { FiCodesandbox } from "react-icons/fi";
-import { CgWebsite } from "react-icons/cg";
+
 import styled from "styled-components";
 import Card from "./Card";
-import { Fade, Slide } from "react-awesome-reveal";
+import { Fade } from "react-awesome-reveal";
 
 const Services = () => {
   return (

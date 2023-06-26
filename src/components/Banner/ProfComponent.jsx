@@ -3,11 +3,10 @@ import styled from "styled-components";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { Fade, Slide } from "react-awesome-reveal";
+import { Fade } from "react-awesome-reveal";
 import image from "../../images/myImage.jpeg"
 
 const ProfComponent = () => {
-
 
   return (
     <Container id="home">
